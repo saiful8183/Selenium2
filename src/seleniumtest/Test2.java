@@ -21,7 +21,7 @@ public class Test2 {
 
 //System Property for Chrome Driver   
  System.setProperty("webdriver.chrome.driver",
-			"C:\\Users\\Saiful Chowdhury\\OneDrive\\Documents\\chromedriver_win32\\chromedriver.exe");
+		 "C:\\Users\\Saiful Chowdhury\\OneDrive\\Desktop\\Automation\\chromedriver.exe");
 
 	
 
